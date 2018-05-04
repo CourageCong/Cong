@@ -6,3 +6,5 @@ git init
 git add 
 git commit -m "tijiao"
 git status
+git
+g
