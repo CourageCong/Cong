@@ -1,1 +1,8 @@
 ddddda12ss33aa
+git pull 
+git branch -a
+git checkout -b 10 origin/10.1.0
+git init
+git add 
+git commit -m "tijiao"
+git status
